@@ -1,0 +1,21 @@
+.bordure
+{
+    border: 1px solid #AFDEF0;
+    min-height: 7vh;
+    background: rgb(255,206,246);
+}
+
+.container
+
+{
+    border: 1px solid  #E6D3F0;
+
+}
+
+.fond
+{
+    background: #AFDEF0;
+    min-height: 14vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

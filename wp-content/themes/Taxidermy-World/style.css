@@ -1,0 +1,31 @@
+/* 
+theme name : Taxidermy-World
+author : resmo
+description : voici mon theme
+version : 1.0
+text domain : taxidermyworld 
+*/
+
+body
+{
+    background-image : url(img/background.jpg);
+    min-height: 1000px;
+    color: white;
+    background-attachment: fixed;
+    font-family: 'PT Serif', serif;
+    width: 100%;
+}
+
+
+.haut-gauche
+{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+
+li
+{
+    list-style: none;
+}
